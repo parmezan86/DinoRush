@@ -1,4 +1,4 @@
-# Runner
-Runner game demo
+# Dino Rush
+Runner game demo.
 
-Need add Standard Assets/CrossPlatformInput(Scripts/AxisTouchButton) & /Editor
+My first attempt at gamemaking.
